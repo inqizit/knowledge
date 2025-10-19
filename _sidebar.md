@@ -1,0 +1,15 @@
+- Getting Started
+  - [README](README.md)
+- Knowledge
+  - System Design
+    - News Aggregator
+      - [Problem](knowledge/system_design/news_aggregator/problem.md)
+      - [Subproblem 1](knowledge/system_design/news_aggregator/subproblem-1.md)
+      - [Solution 1](knowledge/system_design/news_aggregator/solution_1.md)
+      - [Solution 1 Follow-ups](knowledge/system_design/news_aggregator/solution_1_followup.md)
+      - Research
+        - [Architecture](knowledge/system_design/news_aggregator/research/architecture.md)
+        - [Full Notes](knowledge/system_design/news_aggregator/research/System%20Design_%20News%20Aggregator.md)
+  - Blog
+    - News Aggregator
+      - [Design Notes and Journey](knowledge/blog/news-aggregator/README.md)
