@@ -20,10 +20,6 @@ Selection criteria
 - Cost model: storage vs compute vs data egress; hot/warm/cold tiers
 - Operational model: backups, replication, upgrades, observability, SRE effort
 
-See subpages for deep dives:
 
-- [OLTP](oltp/README.md)
-- [OLAP](olap/README.md)
-- [HTAP](htap/README.md)
 
 
